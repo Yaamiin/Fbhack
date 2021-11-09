@@ -75,15 +75,15 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[192mIjaz Afridi
-\033[1;96mInstagram \033[1;93m: \033[1;92m?mrijazofficial01
-\033[1;96mFacebook  \033[1;93m: \033[1;92m?Mr_Ijaz_official302
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Mrbadmash/afridi
+\033[1;96mAuthor  \033[1;93m:   \033[192mWaseem Naol
+\033[1;96mInstagram \033[1;93m: \033[1;92mwasemnaol
+\033[1;96mFacebook  \033[1;93m: \033[1;92mwasemnaol
+\033[1;96mGithub \033[1;93m:    \033[1;92mwasemnaol
 \033[1;91m======================================="""
 print " \x1b[1;93m========================================================="
 
-CorrectUsername = "wasem"
-CorrectPassword = "naol"
+CorrectUsername = "fbnaol"
+CorrectPassword = "fbnaol"
 
 loop = 'true'
 while (loop == 'true'):
