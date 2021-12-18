@@ -19,7 +19,7 @@ Ultimate Facebook Cloning via Termux
 
 ☆pip2 install futures
 
-☆git clone https://github.com/Wasemnaol/fbnaol.git
+☆git clone https://github.com/Yaamiin/fbhack.git
 
 #HOW_TO_USE
 
