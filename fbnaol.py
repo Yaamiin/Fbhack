@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/naolapps')
+            os.system('xdg-open https://www.facebook.com/abdisamad.omar.50')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/naolapps')
+        os.system('xdg-open https://www.facebook.com/abdisamad.omar.50')
 
 def login():
 	os.system('clear')
