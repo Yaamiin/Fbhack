@@ -51,10 +51,10 @@ def jalan(z):
 logo = """ 
 
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mWasem Naol and Faheem Naol
-\033[1;96mInstagram \033[1;93m: \033[1;m?wasemnaol
-\033[1;96mFacebook  \033[1;93m: \033[1;m?wasemnaol
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/wasemnaol
+\033[1;96mAuthor  \033[1;93m: \033[1;92mCabdisamad Omar Mohamed
+\033[1;96mInstagram \033[1;93m: \033[1;m?Abdisamad 
+\033[1;96mFacebook  \033[1;93m: \033[1;m?Abdisamad
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Yaamiin
 \033[1;91m======================================="""
 
 def tik():
@@ -75,10 +75,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ========================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m:   \033[192mWaseem Naol
-\033[1;96mInstagram \033[1;93m: \033[1;92mwasemnaol
-\033[1;96mFacebook  \033[1;93m: \033[1;92mwasemnaol
-\033[1;96mGithub \033[1;93m:    \033[1;92mwasemnaol
+\033[1;96mAuthor  \033[1;93m:   \033[192mAbdisamad Omad
+\033[1;96mInstagram \033[1;93m: \033[1;92mAbdisamad
+\033[1;96mFacebook  \033[1;93m: \033[1;92mAbdisamad
+\033[1;96mGithub \033[1;93m:    \033[1;92mAbdisamad
 \033[1;91m======================================="""
 print " \x1b[1;93m========================================================="
 
