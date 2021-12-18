@@ -23,7 +23,7 @@ Ultimate Facebook Cloning via Termux
 
 #HOW_TO_USE
 
-☆cd fbnaol
+☆cd fbhack
 
 ☆python2 fbnaol.py
 
